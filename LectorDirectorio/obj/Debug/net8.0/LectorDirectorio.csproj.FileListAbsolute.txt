@@ -1,0 +1,14 @@
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.exe
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.deps.json
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.runtimeconfig.json
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.dll
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\bin\Debug\net8.0\LectorDirectorio.pdb
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.AssemblyInfoInputs.cache
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.AssemblyInfo.cs
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.csproj.CoreCompileInputs.cache
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.dll
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\obj\Debug\net8.0\refint\LectorDirectorio.dll
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.pdb
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.genruntimeconfig.cache
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorDirectorio\obj\Debug\net8.0\ref\LectorDirectorio.dll

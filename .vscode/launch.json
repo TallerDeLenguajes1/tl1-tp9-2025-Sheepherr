@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // Si ha cambiado las plataformas de destino, asegúrese de actualizar la ruta de acceso del programa.
-            "program": "${workspaceFolder}/LectorDirectorio/bin/Debug/net8.0/LectorDirectorio.dll",
+            "program": "${workspaceFolder}/LectorTagMP3/bin/Debug/net8.0/LectorTagMP3.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/LectorDirectorio",
+            "cwd": "${workspaceFolder}/LectorTagMP3",
             // Para obtener más información sobre el campo \"consola\", consulte https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

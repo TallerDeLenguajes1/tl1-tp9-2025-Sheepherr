@@ -1,0 +1,15 @@
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.exe
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.deps.json
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.runtimeconfig.json
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.dll
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\bin\Debug\net8.0\LectorTagMP3.pdb
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.AssemblyInfoInputs.cache
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.AssemblyInfo.cs
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.csproj.CoreCompileInputs.cache
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.sourcelink.json
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.dll
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\obj\Debug\net8.0\refint\LectorTagMP3.dll
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.pdb
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\obj\Debug\net8.0\LectorTagMP3.genruntimeconfig.cache
+D:\FACULTAD\2do_anio\Taller1\git\tl1-tp9-2025-Sheepherr\LectorTagMP3\obj\Debug\net8.0\ref\LectorTagMP3.dll
